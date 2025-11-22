@@ -1,125 +1,104 @@
-# Payvo.me Platform Overview
 
-Welcome to **Payvo.me**, the ultimate solution for simplifying subscription and payment management for businesses. Whether you're a side project or a large enterprise, Payvo.me automates billing, reduces administrative overhead, and provides an all-in-one platform for handling payments, subscriptions, and revenue tracking.
+**[Payvo.me](http://payvo.me)** is a subscription and payment management platform that helps businesses manage **one-time, monthly, and installment payments** in a single place. It is designed to replace spreadsheets and manual billing with a clear, automated system so you can **streamline billing, get paid faster, and track your revenue in real time**.
 
-## 🚀 Executive Summary
+#### What is Payvo.me?
 
-Payvo.me streamlines and automates the customer subscription and payment process for businesses, offering an easy-to-use platform to track payments, manage customers, and analyze revenue with minimal administrative work. With flexible billing options (one-time, monthly, and installment payments) and robust features such as automated customer notifications, Payvo.me allows businesses to focus on growth rather than the busywork associated with billing.
+[Payvo.me](http://payvo.me) is a web-based tool that lets you:
 
-### **Core Value Proposition**
-- **Simplify Subscription Lifecycle:** From customer onboarding to revenue tracking, Payvo.me makes subscription management seamless.
-- **Automate Administrative Tasks:** Eliminate the time-consuming manual work associated with payments, allowing businesses to focus on scaling.
-- **Scalable Pricing Models:** Payvo.me offers pricing tiers that grow with your business, making it suitable for side projects to large enterprises.
+- Create customers and assign them to payment plans  
+- Record one-time, recurring, or installment payments  
+- Track revenue, payouts, and key subscription metrics from a central dashboard  
+- Give your customers a **self-service portal** where they can see their payments and download receipts  
 
----
+It is built for solo founders, agencies, SaaS products, coaching businesses, and any company that relies on **subscriptions or recurring payments**.
 
-## 📌 Core Features
+#### Why use Payvo.me?
 
-Payvo.me offers a suite of powerful features that help businesses handle all aspects of payment management. 
+Most small and mid-sized businesses still manage subscriptions in Excel, Google Sheets, or scattered notes. This causes:
 
-### 1. **Subscription and Payment Management**
+- Missed payments and manual follow-ups  
+- No clear view of **MRR, churn, or revenue growth**  
+- Confusing records when customers change plans or pay in installments  
 
-Easily create and manage various payment plans for your customers:
+[Payvo.me](http://payvo.me) solves this by centralizing all billing and analytics, so you always know:
 
-- **One-Time Payments**: Perfect for single, non-recurring transactions.
-- **Monthly Payments**: Ideal for recurring subscriptions with monthly billing.
-- **Installment Payments**: Split total payments into manageable, scheduled installments.
+- How much recurring revenue you have  
+- Which customers are fully paid, partially paid, or overdue  
+- How your revenue is growing day by day and month by month  
 
-### 2. **Analytics Dashboard**
+#### Core Capabilities
 
-Stay on top of your finances with Payvo.me’s comprehensive **Analytics Dashboard**, which includes:
+**1. Subscription & Payment Management**
 
-- **Monthly Recurring Revenue (MRR)** tracking.
-- **Churn Rate** and **Customer Acquisition** metrics.
-- **Invoice Paid Rate** for efficient cash flow management.
-- **Payout Tracking** to monitor payment status.
+- **One-Time Payments** – Log and track single, non-recurring payments  
+- **Monthly Payments** – Manage monthly subscriptions and invoices  
+- **Installment Payments** – Split a total amount into scheduled installments  
 
-**Sample Data:**
-- **MRR**: $28,420
-- **New Subscriptions**: +384
-- **Churn**: 1.8%
-- **Invoices Paid**: 96.2%
-- **Avg. Payout Time**: 1.3 days
+You can assign each customer to the right plan type and keep their full payment history in one place.
 
-### 3. **Customer Portal**
+**2. Analytics & Revenue Tracking**
 
-Empower your customers with a dedicated **Customer Portal** where they can:
+The [Payvo.me](http://payvo.me) dashboard gives you a clear, at-a-glance view of your business:
 
-- View their payment history.
-- Download receipts and payment confirmations.
-- Check for upcoming payments and outstanding balances.
+- **MRR (Monthly Recurring Revenue)**  
+- **New subscriptions** and active customers  
+- **Churn rate** (customers who stop paying)  
+- **Invoices paid vs pending**  
+- **Average payout time**  
 
-### 4. **Automated Customer Notifications**
+There are also **daily financial views** to help you monitor:
 
-Keep your customers informed and reduce manual follow-ups with automated notifications:
+- Total sales for today  
+- Revenue growth over the week  
+- Opening and closing balance for the day  
+- Net change in balance  
 
-- **Payment Confirmations**.
-- **Pending Payment Reminders**.
-- **Completed Payout Confirmations**.
+This turns raw payment data into actionable insights for growth and forecasting.
 
----
+**3. Customer Portal & Notifications**
 
-## 🔄 Operational Workflow
+[Payvo.me](http://payvo.me) includes customer-facing tools to reduce support work:
 
-Payvo.me's user-friendly workflow enables businesses to manage payments with ease. Here’s how the platform works:
+- **Customer Portal** – Clients can log in to:  
+  - View all their past payments  
+  - Download receipts or confirmations  
+  - See upcoming installments or outstanding balances  
 
-1. **Sign Up**: Create your Payvo.me account, select your plan, and configure your settings in minutes.
-2. **Add Customers**: Input customer details like name, contact info, and payment terms.
-3. **Add Payments**: Choose from one-time, monthly, or installment payment plans for each customer.
-4. **Track Revenue**: Use the analytics dashboard to track payments, monitor MRR, and generate reports.
+- **Automated Notifications** – The system can send updates for:  
+  - Payment confirmations  
+  - Upcoming or overdue payments  
+  - Completed payouts  
 
----
+This improves transparency and builds trust with your customers.
 
-## 🔑 Key Benefits
+**4. Multi-Currency Support**
 
-- **Automated Billing**: Save time with automated billing processes.
-- **Scalable Solutions**: From small projects to large enterprises, Payvo.me grows with your business.
-- **Comprehensive Revenue Tracking**: Get deep insights into your revenue with real-time data.
-- **Customer Self-Service**: Enable customers to manage their own payment history and receipts via the **Customer Portal**.
+[Payvo.me](http://payvo.me) supports multiple currencies so you can work with local and international clients. Examples include:
 
----
+- PKR, INR, IRR  
+- USD, AUD, CAD  
+- SAR, AED  
 
-## 🚀 Why Choose Payvo.me?
+This makes it suitable for global freelancers, agencies, and international SaaS businesses.
 
-- **Efficient**: Say goodbye to manual invoicing and administrative hassle.
-- **Scalable**: Payvo.me fits businesses of any size with flexible plans and features.
-- **Data-Driven**: Leverage powerful analytics to optimize your business's financial management.
+**5. Simple, Tiered Pricing**
 
----
+The platform offers a straightforward pricing structure:
 
-## 📞 Support
+- **Free Plan** – Ideal for testing and side projects (small customer limit)  
+- **Pro Plan** – For growing businesses that need more customers and active tracking  
+- **Business Plan** – For larger teams that need unlimited customers and extra branding options  
 
-If you need help, our team is here to support you. All paid plans include **email support**, and we also provide a detailed **Help Center** for FAQs and troubleshooting.
+There is also a **special regional offer for users in Pakistan** on the Pro plan, including optional WhatsApp-based support.
 
-### **Contact Us:**
-- **Website**: [www.payvo.me](https://www.payvo.me)
+#### Who is Payvo.me for?
 
----
+[Payvo.me](http://payvo.me) is a good fit if you:
 
-## 🛠 Installation & Setup
+- Sell **subscriptions, retainers, or recurring services**  
+- Offer **installment payment plans** for high-ticket services or products  
+- Manage many customers and want a **single source of truth** for payment status  
+- Need better visibility into **MRR, churn, and growth**  
+- Want your customers to have a simple self-service area for receipts and history  
 
-1. **Sign up** for Payvo.me via the [Sign Up Page](https://www.payvo.me/login).
-2. Choose your **pricing plan** based on your business needs.
-3. **Add customers** and start managing your subscription payments!
-4. Leverage the **Analytics Dashboard** for detailed insights into your revenue and customer performance.
-
----
-
-## ⚙️ System Requirements
-
-Payvo.me is a cloud-based platform that works seamlessly across all devices with the following system requirements:
-- **Web Browser**: Chrome, Firefox, Safari, or Edge.
-- **Device**: Desktop, tablet, or mobile.
-
----
-
-### **Ready to Get Started?**
-
-Sign up for a **Free Trial** or choose a plan that suits your business today!
-
-[Get Started with Payvo.me](https://www.payvo.me/login)
-
----
-
-**Keywords for SEO**: Payvo.me, subscription management, payment automation, recurring payments, customer portal, billing platform, MRR tracking, revenue analytics, business growth, scalable pricing, subscription lifecycle management.
-
+Use this project/documentation to connect **[Payvo.me](http://payvo.me)** with your existing workflow and replace manual billing with a **structured, analytics-driven subscription management system**.
